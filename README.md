@@ -120,3 +120,6 @@ print(f"T-statistic: {t_stat}, p-value: {p_val}")
 📅 **Date**: January 6, 2025  
 **Author**: Francisco SLG
 
+---
+
+[Back](https://frankenslg.github.io/Portafolio/)
